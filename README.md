@@ -1,4 +1,4 @@
-## Java101 Temel Ders Projeleri
+## Java102 Projeleri
 ````
 Patika.dev Java102 kapsamındaki ödevler ve ekstradan yapılan pratik amaçlı projeler.
 ````
