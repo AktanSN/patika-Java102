@@ -1,6 +1,6 @@
 ## Java101 Temel Ders Projeleri
 ````
-Patika.dev Java101 kapsamındaki bütün pratik ve ödevler.
+Patika.dev Java102 kapsamındaki ödevler ve ekstradan yapılan pratik amaçlı projeler.
 ````
 <table><tr><td valign="top" width="50%">
 <div >  
